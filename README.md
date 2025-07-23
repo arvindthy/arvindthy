@@ -44,6 +44,26 @@ Data Cleaning • Predictive Modeling • Logistic Regression • Dashboarding �
 
 ---
 
+## 💼 Experience
+
+**Business Analyst Intern**  
+*Highlands Consulting – Sacramento, CA*  
+📅 *June 2024 to Sept 2024*  
+- Developed complex Excel budget models to calculate FEMA reimbursements for COVID-19 damages across California.  
+- Consolidated thousands of invoices into a master data sheet; collaborated with government officials to resolve reimbursement discrepancies.  
+- Analyzed over 200 FEMA appeals and presented insights on prepositioned costs in a firmwide PowerPoint briefing.  
+- Gained experience in deadline-driven, high-pressure environments and conflict resolution within government settings.
+
+**Financial Analyst Intern**  
+*Kanikalammavari Goshala – India*  
+📅 *June 2022 to Aug 2022*  
+- Developed financial models for budgeting and forecasting; built Excel tools to monitor KPIs and spending on agricultural inputs.  
+- Analyzed balance sheets, income statements, and cash flow reports to evaluate financial health.  
+- Supported investment decisions by forecasting market and economic trends using internal farm data.
+
+
+---
+
 ## ⚽ Outside Work
 
 - UC Davis Lacrosse Team
